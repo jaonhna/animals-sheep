@@ -1,0 +1,22 @@
+#alien {
+    width: 300px;
+    height: 300px;
+}
+
+body {
+    background-color: rgb(75, 121, 115);
+    color: rgb(255, 238, 0);
+    font-family: 'Abril Fatface', cursive;
+}
+
+.footer {
+    position: fixed;
+    color: rgb(75, 121, 115);
+    background-color: rgb(255, 238, 0);
+    font-size: 18px;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px yellow;
+}
